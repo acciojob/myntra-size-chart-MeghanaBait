@@ -1,2 +1,38 @@
 
 /* Your CSS Code here. */
+table{
+	border-collapse:collapse;
+	width:100%;
+	
+}
+
+th, td{
+	border:2px solid black;
+}
+
+th{
+	text-align:left;
+	color:white;
+}
+td{
+	text-align:right;
+}
+.tdh{
+	text-align:left;
+}
+thead{
+	background:lightcoral;
+}
+
+.first{
+	background:lightsalmon;
+	color:white;
+}
+
+.second{
+	background:lightyellow;
+}
+
+.third{
+	background:lightcyan;
+}
